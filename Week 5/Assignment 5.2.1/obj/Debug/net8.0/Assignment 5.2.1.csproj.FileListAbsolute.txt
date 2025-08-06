@@ -1,0 +1,14 @@
+C:\Users\latin\source\repos\Assignment 5.2.1\bin\Debug\net8.0\Assignment 5.2.1.exe
+C:\Users\latin\source\repos\Assignment 5.2.1\bin\Debug\net8.0\Assignment 5.2.1.deps.json
+C:\Users\latin\source\repos\Assignment 5.2.1\bin\Debug\net8.0\Assignment 5.2.1.runtimeconfig.json
+C:\Users\latin\source\repos\Assignment 5.2.1\bin\Debug\net8.0\Assignment 5.2.1.dll
+C:\Users\latin\source\repos\Assignment 5.2.1\bin\Debug\net8.0\Assignment 5.2.1.pdb
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.AssemblyInfoInputs.cache
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.AssemblyInfo.cs
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.csproj.CoreCompileInputs.cache
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.dll
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\refint\Assignment 5.2.1.dll
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.pdb
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\Assignment 5.2.1.genruntimeconfig.cache
+C:\Users\latin\source\repos\Assignment 5.2.1\obj\Debug\net8.0\ref\Assignment 5.2.1.dll

@@ -1,0 +1,14 @@
+C:\Users\latin\source\repos\Challenge Lab 3.4\bin\Debug\net8.0\Challenge Lab 3.4.exe
+C:\Users\latin\source\repos\Challenge Lab 3.4\bin\Debug\net8.0\Challenge Lab 3.4.deps.json
+C:\Users\latin\source\repos\Challenge Lab 3.4\bin\Debug\net8.0\Challenge Lab 3.4.runtimeconfig.json
+C:\Users\latin\source\repos\Challenge Lab 3.4\bin\Debug\net8.0\Challenge Lab 3.4.dll
+C:\Users\latin\source\repos\Challenge Lab 3.4\bin\Debug\net8.0\Challenge Lab 3.4.pdb
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.AssemblyInfoInputs.cache
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.AssemblyInfo.cs
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.csproj.CoreCompileInputs.cache
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.dll
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\refint\Challenge Lab 3.4.dll
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.pdb
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\Challenge Lab 3.4.genruntimeconfig.cache
+C:\Users\latin\source\repos\Challenge Lab 3.4\obj\Debug\net8.0\ref\Challenge Lab 3.4.dll
