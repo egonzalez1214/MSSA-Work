@@ -10,6 +10,8 @@
             BeforeBigShift(inputNums1);
             ShiftTheZeros(inputNums1);
 
+            Console.WriteLine("\n-------------------------\n");
+
             //case two
             int[] inputNums2 = [0];
             BeforeBigShift(inputNums2);
