@@ -26,8 +26,8 @@
             DoesItAnagram(twoInputOne, twoInputTwo);
             Console.WriteLine("-------------------------");
             // case three
-            string threeInputOne = "the eyes",
-                   threeInputTwo = "they see";
+            string threeInputOne = "the eyes,",
+                   threeInputTwo = "they see!";
             DoesItAnagram(threeInputOne, threeInputTwo);
             Console.WriteLine("-------------------------");
             // case four
@@ -46,9 +46,17 @@
             bool IsAnagram = false;
 
             // strip to barebones for comp
-            char[] stringOne = inputOne.ToLower().Replace(" ", "").ToCharArray();
+            char[] stringOne = inputOne
+                .ToLower()
+                .Replace(" ", "")
+                .Where(char.IsLetterOrDigit)
+                .ToArray();
             Array.Sort(stringOne);
-            char[] stringTwo = inputTwo.ToLower().Replace(" ", "").ToCharArray();
+            char[] stringTwo = inputTwo
+                .ToLower()
+                .Replace(" ", "")
+                .Where(char.IsLetterOrDigit)
+                .ToArray();
             Array.Sort(stringTwo);
 
             // first check, if length not equal, no way anagram
